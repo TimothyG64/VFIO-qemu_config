@@ -7,4 +7,4 @@ GPU: Nvidia 1650Ti
 RAM: 16Go
 
 I used two internel SSDs, one for the linux, the other passed through to the windows, and so far this config worked well.
-But, I went back to back to full windows, due to the bad bettery life of this laptop on linux.
+But, I went back to back to full windows, due to the bad battery life of this laptop on linux.
